@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **thanveer761@gmail.com**
 
-- ⚡ Skills **Java Selenium TestNG Postman Jenkins Maven Cucumber Git GitHub JavaScript**
+- ⚡ Skills: **Java| Selenium| TestNG| Postman| Jenkins| Maven| Cucumber| Git| GitHub|Basic JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
